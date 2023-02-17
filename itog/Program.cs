@@ -6,7 +6,7 @@ namespace FinalTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("длинна массива: ");
+            Console.WriteLine("длина массива: ");
             int arrayLen = Convert.ToInt32(Console.ReadLine());
             string[] array = new string[arrayLen];
 
